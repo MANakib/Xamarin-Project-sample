@@ -1,0 +1,2 @@
+C:\Users\Juris\documents\visual studio 2017\Projects\DefuseBomb\DefuseBomb\DefuseBomb.UWP\DefuseBomb.UWP.csproj;x86
+C:\Users\Juris\documents\visual studio 2017\Projects\DefuseBomb\DefuseBomb\DefuseBomb\DefuseBomb.csproj;neutral
